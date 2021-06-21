@@ -16,8 +16,8 @@ keypoints:
 ***
 
 ### What is an RSS Feed?
-- An RSS Feeds is a technology that allows users to access updates to the website in a computer-readable format.
-- Websites which publish episodes, news, blog posts or episodes of video series use RSS Feeds.
+- An RSS Feed is a technology that allows users to access updates to the website in a computer-readable format.
+- Websites which publish episodes, news, blog posts, episodes of video series use RSS Feeds.
 - With RSS Feeds, users do not need to check websites manually for new content.
 - Further information can be found by following the links below:
 
@@ -26,7 +26,7 @@ keypoints:
 <https://www.digitaltrends.com/computing/what-is-an-rss-feed/>
 
 
-Once COSMOS is launched in your browser, click the plus button on the top left corner. There are options `Import Data`, `Import RSS Feed` and `Start Twitter Collection`. We will importing an RSS Feed on COSMOS:
+Once COSMOS is launched in your browser, click the plus button on the top left corner. There are options `Start Twitter Collection`, `Import Data`, and `Import RSS Feed`. We will be importing an RSS Feed on COSMOS:
 
 1. Click `Import RSS Feed` and the popup window appears on the page.
 ![Imported Data](../fig/RSS-feed.png){:height="200px" width="500px"} 
@@ -40,13 +40,13 @@ Once COSMOS is launched in your browser, click the plus button on the top left c
 
 > ## Tip: How to find the RSS Feed URL of a site?
 >
-> There are several ways to find the RSS Feed URL of a website. You can find out the ways and instructions [clicking this link.](https://help.socialpilot.co/article/503-how-do-i-find-an-rss-feed-url-of-a-site)
+> There are several ways to find the RSS Feed URL of a website. You can find out the ways and instructions by [clicking this link.](https://help.socialpilot.co/article/503-how-do-i-find-an-rss-feed-url-of-a-site)
 > 
 >
 {: .callout}
 
 ***  
-#### You can also watch a YouTube video showing all COSMOS adding RSS feed processes by clicking the image below.
+#### You can also watch a YouTube video showing showing the process for adding RSS feeds in COSMOS by clicking the image below.
 ***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tdrx_5ICUuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
